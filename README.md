@@ -1,1 +1,4 @@
 # 5la1m-DiscordSystem
+In this project, I programmed several Discord bots that ensure that you become more independent of foreign bots. Among other things, we have a ticket system, which is intended for support. With the ticket system, users with a problem can simply draw a ticket and the supporters can then simply take care of it. The other Discord bot is a log system. It always sends a notification in a specific channel with the information who joined or left a channel at what time. In addition, the log system is to be edited in the future in such a way that it also secures entire channels and searches for offensive messages.
+
+My Discord Server with the System: https://discord.gg/FwaZaBpFyd
